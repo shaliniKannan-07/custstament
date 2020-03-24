@@ -1,0 +1,16 @@
+{
+  "Reference": 112806,
+  "AccountNumber": "NL69ABNA0433647324",
+  "Description": "Clothes for Richard de Vries",
+  "Start Balance": 90.83,
+  "Mutation": -10.91,
+  "End Balance": 79.92
+},
+{
+"Reference": 112806,
+"AccountNumber": "NL93ABNA0585619023",
+"Description": "Tickets from Richard Bakker",
+"Start Balance": 102.12,
+"Mutation": "+45.87",
+"End Balance": 146.99
+}
